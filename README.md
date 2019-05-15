@@ -1,14 +1,16 @@
 ## Imba tooling for VSCode
-###
+Find it in [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=tirado.imba)
 
 ### Features
 - Syntax Highlithing (with support for Single File Components)
+- Please make PR to contribute more features (Auto Complete, Debugging, Linting/ Error Checking etc...)
 
 ### For more information
 
 * [Imba.io](https://imba.io)
-* [Spectrum](https://spectrum.chat/imba)
-* [Gitter](https://gitter.im/imba/lobby)
+* [Spectrum (Chat & Knowledgebase)](https://spectrum.chat/imba) NEW!
+* [Gitter Chat](https://gitter.im/imba/lobby) NEW!
+* [Gitter Chat](https://gitter.im/somebee/imba)
 
 **Enjoy!**
 
